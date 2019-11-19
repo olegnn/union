@@ -1,6 +1,10 @@
+# Deprecated in favor of [join!](https://github.com/olegnn/join)
+
 # `union!`
 
-`union!` - one macro to rule them all. Provides useful shortcut combinators, combines sync/async chains, transforms tuple of results in result of tuple, supports single and multi thread (sync/async) step by step execution of branches.
+# !!Deprecated!!
+
+`union!` - **macro** which provides useful shortcut combinators, combines sync/async chains, transforms tuple of results in result of tuple, supports single and multi thread (sync/async) step by step execution of branches.
 
 [![Docs][docs-badge]][docs-url]
 [![Crates.io][crates-badge]][crates-url]
